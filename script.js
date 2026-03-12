@@ -1,6 +1,6 @@
 // --- 1. Typewriter Effect ---
 // REMEMBER TO CHANGE THIS TO YOUR ACTUAL NAME!
-const nameToType = "Hi, I'm [Your Name]."; 
+const nameToType = "Hi, Subhodip Here."; 
 const typewriterElement = document.getElementById("typewriter");
 let index = 0;
 
